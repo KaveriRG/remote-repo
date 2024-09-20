@@ -1,5 +1,6 @@
 # remote-repo
-**Pushing**
-***code***
-****from****
-*****local to remote*****
+*Pulling*
+**from**
+***Remote Repo***
+****To Local****
+*****Repo*****
